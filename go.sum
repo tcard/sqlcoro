@@ -1,0 +1,6 @@
+github.com/tcard/coro v1.0.1 h1:bEjMJ1lCzvBvPuXYNTlpNPSoaMlznYeRKVP6W72b2u8=
+github.com/tcard/coro v1.0.1/go.mod h1:Er3KRfDezc0aIeWV1opHq/lREljNhzYIYr0QxdffbgQ=
+github.com/tcard/sqler v0.0.0-20200611061524-3ea74fcb62f0 h1:kI9Y/KRACrbZMc9b58c00v0MBj+f+gclqja0KKKNkns=
+github.com/tcard/sqler v0.0.0-20200611061524-3ea74fcb62f0/go.mod h1:aOIK0Y/aR6nu4nXwrFwKh8kwewkXNtqNL25tY3xnW3w=
+github.com/tcard/sqler v1.0.0 h1:S+77jLTSkrqH5gd7bB6OxmktEdjPPNglYpVff7y61QA=
+github.com/tcard/sqler v1.0.0/go.mod h1:aOIK0Y/aR6nu4nXwrFwKh8kwewkXNtqNL25tY3xnW3w=
